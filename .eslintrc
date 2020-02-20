@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "react-app",
+    "eslint:recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:react/recommended",
+  ],
+  "rules": {
+    "react/prop-types": 0,
+  },
+}
