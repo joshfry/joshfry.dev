@@ -5,7 +5,10 @@ module.exports = {
     description: `I'm Josh Fry, a Front End Developer and Designer from Hollister, Ca.`,
     siteUrl: `https://joshfry.dev`,
     social: {
-      twitter: `joshfry`,
+      twitter: `joshfry`, // https://twitter.com/
+      github: `joshfry`, // https://github.com/
+      codepen: `joshfry`, // https://codepen.io/
+      dribbble: `joshfry`, // https://dribbble.com/
     },
   },
   plugins: [
