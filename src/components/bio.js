@@ -54,10 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>, a Front End Developer who enjoys making things with
-        web technologies.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>You should follow him on Twitter</a>
+        Written by <strong>{author}</strong>, a Front End Developer <br />
+        who enjoys making things on the web.
       </p>
     </div>
   );

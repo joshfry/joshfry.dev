@@ -23,20 +23,8 @@ const Index = () => {
             .dev
           </Link>
         </h1>
-        <p style={{ textAlign: 'center' }}>
-          Hello, welcome to my new website. <br />
-          I&apos;m currently working on it but for now, check out my{' '}
-          <Link to="/blog" style={{ boxShadow: 'none' }}>
-            blog
-          </Link>
-          .
-        </p>
         <p>
-          {/* TODO: use GraphQL to query these */}
-          <a href="https://twitter.com/joshfry">twitter</a>{' '}
           <a href="https://github.com/joshfry">github</a>{' '}
-          <a href="https://codepen.io/joshfry">codepen</a>{' '}
-          <a href="https://dribbble.com/joshfry">dribbble</a>
         </p>
       </div>
     </React.Fragment>
